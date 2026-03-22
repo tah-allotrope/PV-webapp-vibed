@@ -1,0 +1,5 @@
+{
+  "name": "Vietnam Solar NPV Calculator",
+  "description": "Calculate the Net Present Value of rooftop solar installations in Vietnam based on location and system parameters.",
+  "requestFramePermissions": []
+}
